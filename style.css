@@ -1,0 +1,11 @@
+h1{
+text-align: center;
+background-color: red;
+color: black;
+}
+.container {
+    display: flex;
+    justify-content: center; /* Centraliza na horizontal */
+    align-items: center;     /* Centraliza na vertical */
+    height: 100vh;           /* Ocupa a altura total da tela */
+}
